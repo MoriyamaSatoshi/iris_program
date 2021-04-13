@@ -1,4 +1,3 @@
-#日本大学理工学部応用情報工学科 森山慧
 #iris.csvファイルをニューラルネットワークで学習させるプログラム
 #特徴量を'gakuhen_nagasa','gakuhen_haba','hanabira_nagasa','hanabira_haba'としてirsiの種類を判別する
 #言語 Python
