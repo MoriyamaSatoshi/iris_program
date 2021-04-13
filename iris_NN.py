@@ -35,7 +35,7 @@ print("実行時間[s]　"+str(elapsed_time))
 score = model.score(x_test,y_test)*100
 print("正解率　"+str(score) + "%")
 
-#作成したモデルの実行
+#作成したモデルからirisの種類を予測
 new=[[0.22,0.63,0.08,0.04]]
 result = (model.predict(new))
 print("分類結果"+str(result))
