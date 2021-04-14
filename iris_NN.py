@@ -1,5 +1,5 @@
 #iris.csvファイルをニューラルネットワークで学習させるプログラム
-#特徴量を'gakuhen_nagasa','gakuhen_haba','hanabira_nagasa','hanabira_haba'としてirsiの種類を判別する
+#特徴量を'gakuhen_nagasa','gakuhen_haba','hanabira_nagasa','hanabira_haba'としてiris(アヤメの花)の種類を判別する
 #ニューラルネットワークはscikit-learというオープンソースのライブラリで実装
 #言語 Python
 
